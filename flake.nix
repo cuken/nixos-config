@@ -1,3 +1,11 @@
+# flake.nix
+#
+# Author:       Colin Uken <contact@cuken.dev>
+# URL:          https://github.com/cuken/nixos-config
+# License:      MIT
+#
+# Hic sunt dracones.
+
 {
   description = "Cuken's NixOS and MacOS configuration";
 
